@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.exe
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.dll
+C:\Users\memme\Desktop\P129\Task\P129Casting\bin\Debug\netcoreapp3.1\P129Casting.pdb
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.dll
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.pdb
+C:\Users\memme\Desktop\P129\Task\P129Casting\obj\Debug\netcoreapp3.1\P129Casting.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.exe
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.deps.json
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.dll
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\bin\Debug\netcoreapp3.1\P129ImplicitExplicit.pdb
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.dll
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.pdb
+C:\Users\memme\Desktop\P129\Task\P129ImplicitExplicit\obj\Debug\netcoreapp3.1\P129ImplicitExplicit.genruntimeconfig.cache

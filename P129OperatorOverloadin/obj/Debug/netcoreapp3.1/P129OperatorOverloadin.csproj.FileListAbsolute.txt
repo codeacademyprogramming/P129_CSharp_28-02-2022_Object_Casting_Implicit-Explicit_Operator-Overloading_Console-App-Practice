@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.exe
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.deps.json
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.dll
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\bin\Debug\netcoreapp3.1\P129OperatorOverloadin.pdb
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.dll
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.pdb
+C:\Users\memme\Desktop\P129\Task\P129OperatorOverloadin\obj\Debug\netcoreapp3.1\P129OperatorOverloadin.genruntimeconfig.cache
